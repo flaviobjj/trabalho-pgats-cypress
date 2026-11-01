@@ -1,0 +1,8 @@
+{
+  "nomeNoCartao": "Aluno PGATS",
+  "numero": "4111111111111111",
+  "cvc": "123",
+  "mesExpiracao": "12",
+  "anoExpiracao": "2030",
+  "comentarioPedido": "Pedido gerado por teste automatizado (PGATS)"
+}
